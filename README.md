@@ -1,2 +1,3 @@
 # SoftwareTestingPIIT
-Shring and Collaborating class and homeworks for the Software Testing Class
+## For Sharing and Collaborating Class and Homeworks for the Software Testing Class.
+### Group Members with their _Contact Informations._
